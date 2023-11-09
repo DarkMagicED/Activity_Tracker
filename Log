@@ -1,3 +1,20 @@
 11.7.2023 Start
 
 I know very little of how to create an executable, in fact this project will serve as my introduction to everything that is needed to accomplish a fully functional activity tracker that I plan to use on a daily basis.
+I am familiar most with Python, so I will be seeking to maximize its usage
+
+11.08.2023 
+Great progress -> with the aid of ChatGPT I have learned how to use the terminal in VS code, how to navigate to my repository using cd, and list contents with ls commands. 
+Calendar.py is created, and in it I was suggested by Alex (I asked ChatGPT for a human name it would like to be refered to) to import the calendar module which is included in Python's standard library
+Alex also helped me navigate to and execute with the command -> python calendar.py
+
+upon execution, i am prompted for input: year, and month. Year as a 4 digit int and month as an int between 1 - 12. When these inputs were sent within guidelines a text based, formatted calendar was output in the vs terminal.
+This is great, because it looks very similar to the end product that I have in mind, however I would like all 12 months to appear side by side with eachother.
+I have attempted to input "1-12" but this gave an error
+
+The calendar module has 768 lines total. I will review these to see what other functionality it may already have built in that can serve the project.
+
+
+
+
+
